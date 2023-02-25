@@ -1,0 +1,69 @@
+Bedding:
+Comforter
+Bed Sheets
+Fitted Sheets
+Pillows
+Pillowcases
+Mattress Pad
+Bathroom:
+Soap 
+Shampoo 
+Conditioner
+Floss
+Toothbrush
+Toothpaste
+Mouthwash
+Brush
+Comb
+Hair Dryer
+Travel Container
+Nail Clippers
+Shaving Kit
+First Aid Kit
+Air Freshener
+Kitchen Towels
+Toilet Paper
+Hand Towels
+Bath Towel
+Clothes:
+Clothes and Laundry
+Tide Pods
+Sheet Softener
+Laundry Basket
+Brooms
+Vacuum
+Swiffer
+Hangers
+Trash Can
+Hooks
+Fan
+Closet Organizer
+Supplies:
+Notebooks
+Pencils
+Pens
+Sticky Notes
+Extension Chord
+Scissors
+Adapters
+Appliances:
+Alarm Clock
+Fridge
+Microwave
+Cups
+Bowls
+Food Prep Containers
+Mug
+Dish Soap
+Scrubber
+Dish Towel
+Foil
+Seran Wrap
+Utensils
+Can Opener
+Pots
+Pans
+Ziplock
+Miscellaneous:
+Umbrella
+Flashlight
