@@ -1,3 +1,4 @@
+
 let products = {
     data: [
       {
@@ -115,10 +116,8 @@ let products = {
     {method: "GET"})
     const resJson = response;
     if (resJson.status === 201) {
-      setUser({
-        name: details.name,
-        email: details.email,
-      });
+      JSON.stringify(response)
+    }
     //initializations
     let searchInput = document.getElementById("search-input").value;
     let elements = document.querySelectorAll(".product-name");
