@@ -111,6 +111,14 @@ let products = {
   }
   //Search button click
   document.getElementById("search").addEventListener("click", () => {
+    response = fetch("http://localhost:5000", 
+    {method: "GET"})
+    const resJson = response;
+    if (resJson.status === 201) {
+      setUser({
+        name: details.name,
+        email: details.email,
+      });
     //initializations
     let searchInput = document.getElementById("search-input").value;
     let elements = document.querySelectorAll(".product-name");
